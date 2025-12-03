@@ -1,16 +1,12 @@
 ## Notes
 
 1. Business Context 40 minutes 
-
 2. Requirements 25 minutes 
-
 3. Problem Decomposition 25 minutes 
-
 4. KPIs & Acceptance Criteria 20 minutes 
-
 5. Proposed Solution 30 minutes 
-
 6. Justification 40 minutes 
+
 
 
 
