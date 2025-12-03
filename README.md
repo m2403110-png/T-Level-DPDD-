@@ -12,10 +12,11 @@
 ### Proposed Solution
 - [ ] Description of the Proposed Solution
 ### Justification 
-- [ ] ​Meet the Client and User Needs	
-​- [ ] Risks, Mitigation & Wider Issues	
-​- [ ] Regulatory guidelines and legal requirements	9 
-​- [ ] Appendix
+- [ ] ​Meet the Client and User Needs
+- [ ] Risks, Mitigations and Wider issues
+- [ ] Regulatory Guidelines and legal requirements
+- [ ] Appendix
+
 
 
 
