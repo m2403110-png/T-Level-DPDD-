@@ -55,5 +55,15 @@
  - [ ] Use Case Diagram
  - [ ] Data Dictionary
  - [ ] Data Flow Diagram
+### Algorithms
+- [ ] Flow charting
+
+ ### Test Strategy
+
+ - [ ] Functionality testing
+ - [ ] Usability testing
+ - [ ] Interface testing
+ - [ ] Database Testing
+ - [ ] 
 
  
