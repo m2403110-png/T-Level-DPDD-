@@ -64,6 +64,14 @@
  - [ ] Usability testing
  - [ ] Interface testing
  - [ ] Database Testing
- - [ ] 
+ - [ ] Compatability Testing
+ - [ ] Performance Testing
+ - [ ] Security Testing
+ - [ ] Crowd Testing
+ - [ ] Accessibility Testing
+ - [ ] Acceptance Testing
+ - [ ] Alpha Testing
+ - [ ] Beta Testing
+ - [ ] Black Box/White Box Testing
 
  
