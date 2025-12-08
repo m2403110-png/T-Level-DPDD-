@@ -40,8 +40,10 @@
 ### Visual Interface Design
  - [ ] Wireframes Created
  - - [ ] Whitespace
- - - [ ] Hierarchy 
- - - [ ] Make look good
+ - - [ ] UX Principles (1. User-centricity, 2. Consistency, 3. Hierarchy, 4. Context, 5. User control, 6. Accessibility, 7. Usability)
+  
+   
+- [ ] Make look good
  - [ ] Accessibility Features Included
  - [ ] Annotations
  - [ ] User Journey
