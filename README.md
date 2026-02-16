@@ -75,3 +75,21 @@
  - [ ] Black Box/White Box Testing
 
  
+## Task 3a
+- [ ] Aim of the feedback process
+- [ ] Technical users
+- [ ] Non-Technical users
+- [ ] Interview Questions
+- [ ] Observation Testing
+- [ ] How testing will be carried out
+- [ ] Data recording
+- [ ] Data Analysis method (Quantitative, Qualitative, Triangulation, Prioritisation)
+- [ ] Action Plan
+- [ ] Survey Questions + Interview Questions
+
+## Task 3b 
+- [ ] Asset and content
+- [ ] Requirement Evaluation
+- [ ] Use of Evidence
+- [ ] Improvements
+- [ ] Writing Quality
