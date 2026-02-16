@@ -14,20 +14,61 @@
 ## Activity A Checklist
 ### Business Context
 - [ ] Client Brief Review
+- Clear Understanding of goals
+- Digital solution
+- Assumptions stated (such as company size, budget, timeline)
 - [ ] Stakeholders
+- Internal stakeholders
+- External Stakeholders
+- Stakeholder Impact on design and delivery explained
 - [ ] Constraints
+- Legal constraint
+- Budget constraint
+- Time constraint
 - [ ] Empathy Mapping
+- Example user persona defined
+- Says, Thinks, Does, Feels, Pains, Gains.
+- Link user frustrations to system needs (complexity, cost, etc)
 - [ ] SWOT Analysis
+ - Strengths
+ - Weaknesses
+ - Opportunities
+ - Threats
 - [ ] User Stories and Acceptance
+- Multiple user roles identified
+- Clear format (example: "As a user, I want, so that")
+- Acceptance criteria defined for each scenario
 - [ ] Functional and Non-Functional requirements
+- Anything that would be a webpage or feature (Functional requirement)
+- UX principles, Security, Performance, Scalability, Maintainability
 - [ ] Decomposition of Requirements
+- Decomposition Diagram (Identify problems, func and non func requirements, user stories and acceptance criteria)
+- Seperation of features
+      
 - [ ] KPI's and User Acceptance
+- User growth
+- Average spending
+- Trends
+- Reviews and ratings
+- Feedback
+- Quantified success/failed thresholds
+- Clear measureable outcomes
 ### Proposed Solution
 - [ ] Description of the Proposed Solution
+- Explaining the functional and non functional requirements alot further
 ### Justification 
 - [ ] ​Meet the Client and User Needs
+- Link between user stories and features
+- Improves satisfaction
+- Reduces workload
 - [ ] Risks, Mitigations and Wider issues
+- Cybersecurity threats identified
+- Mitigations for said threats
+- Data accuracy and misinformation risks
 - [ ] Regulatory Guidelines and legal requirements
+- GDPR complaince explained with users rights and penalties
+- WCAG accessibility principles covered
+- Legal planning and land-use considerations included
 - [ ] Appendix
 
 
