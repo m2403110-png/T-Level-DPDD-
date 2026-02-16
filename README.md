@@ -70,6 +70,7 @@
 - WCAG accessibility principles covered
 - Legal planning and land-use considerations included
 - [ ] Appendix
+- Make sure to discuss throughout
 
 
 
@@ -80,7 +81,7 @@
 
 ### Visual Interface Design
  - [ ] Wireframes Created
- - - [ ] Whitespace
+ - - [ ] Whitespace, common conventions, hierarchy
  - - [ ] UX Principles (1. User-centricity, 2. Consistency, 3. Hierarchy, 4. Context, 5. User control, 6. Accessibility, 7. Usability)
   
    
@@ -127,6 +128,9 @@
 - [ ] Data Analysis method (Quantitative, Qualitative, Triangulation, Prioritisation)
 - [ ] Action Plan
 - [ ] Survey Questions + Interview Questions
+- [ ] Gathering feedback
+- Feedback from different categories (age group, experience, etc)
+- Explain why these groups in particular
 
 ## Task 3b 
 - [ ] Asset and content
