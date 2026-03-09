@@ -54,9 +54,10 @@ Suggestions to potentially add:
 - Multiple user roles identified
 - Clear format (example: "As a user, I want, so that, Acceptance criteria")
 - Acceptance criteria defined for each scenario
+- Compare against competitors
 - [ ] Functional and Non-Functional requirements
 - Anything that would be a webpage or feature (Functional requirement)
-- UX principles, Security, Performance, Scalability, Maintainability
+- UX principles, Security, Performance, Scalability, Maintainability (Non functional)
 - [ ] Decomposition of Requirements
 - Decomposition Diagram (Identify problems, func and non func requirements, user stories and acceptance criteria. User login, Data input, Report Generation, Admin Management, Notifications)
 - Seperation of features
