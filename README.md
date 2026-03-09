@@ -7,7 +7,21 @@
 5. Proposed Solution 30 minutes 
 6. Justification 40 minutes 
 
+Suggestions to potentially add:
+ - Contactless Payment
+ - Online Payment
+ - APIs
+ - AR/VR
+ - AI and Algorithms
+ - Cloud Computing/Software
+ - Chatbots/Help agents
 
+ Useful links:
+ https://gdpr-info.eu/issues/fines-penalties/
+ https://gdpr.eu/what-is-gdpr/
+ https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag
+ 
+ 
 
 
 
@@ -17,9 +31,11 @@
 - Clear Understanding of goals
 - Digital solution
 - Assumptions stated (such as company size, budget, timeline)
+- What they want in the solution
+- Intrested in digitalising their product and why they should
 - [ ] Stakeholders
-- Internal stakeholders
-- External Stakeholders
+- Internal stakeholders (Managers, Developers, Executives, Staff, Testers)
+- External Stakeholders (Users, Suppliers, Investors, Government, Competitors, Media)
 - Stakeholder Impact on design and delivery explained
 - [ ] Constraints
 - Legal constraint
@@ -36,13 +52,13 @@
  - Threats
 - [ ] User Stories and Acceptance
 - Multiple user roles identified
-- Clear format (example: "As a user, I want, so that")
+- Clear format (example: "As a user, I want, so that, Acceptance criteria")
 - Acceptance criteria defined for each scenario
 - [ ] Functional and Non-Functional requirements
 - Anything that would be a webpage or feature (Functional requirement)
 - UX principles, Security, Performance, Scalability, Maintainability
 - [ ] Decomposition of Requirements
-- Decomposition Diagram (Identify problems, func and non func requirements, user stories and acceptance criteria)
+- Decomposition Diagram (Identify problems, func and non func requirements, user stories and acceptance criteria. User login, Data input, Report Generation, Admin Management, Notifications)
 - Seperation of features
       
 - [ ] KPI's and User Acceptance
@@ -53,9 +69,10 @@
 - Feedback
 - Quantified success/failed thresholds
 - Clear measureable outcomes
+- (Response time, System uptime, User satisfaction, Number of bugs/errors, Task completion rate, Cost within budget, Deadline met, Support ticket volume)
 ### Proposed Solution
 - [ ] Description of the Proposed Solution
-- Explaining the functional and non functional requirements alot further
+- Explaining the functional and non functional requirements alot further, and why they will improve the solution. Discuss architecture and databases. 
 ### Justification 
 - [ ] ​Meet the Client and User Needs
 - Link between user stories and features
