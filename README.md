@@ -101,12 +101,28 @@ Suggestions to potentially add:
  - [ ] Wireframes Created
  - - [ ] Whitespace, common conventions, hierarchy
  - - [ ] UX Principles (1. User-centricity, 2. Consistency, 3. Hierarchy, 4. Context, 5. User control, 6. Accessibility, 7. Usability)
+ - Color Scheme with WebAIM
+ - Logo
+ - Navbar
+ - Footer
+ - Many pages
+ - Annotate wireframes
+   
   
    
 - [ ] Make look good
  - [ ] Accessibility Features Included
+ - Alt text
+ - Screen Reader
+ - Font size
+ - Transcript
+ - Subtitles
+ - Color contrats options
  - [ ] Annotations
+ - Why each choice was made
  - [ ] User Journey
+ - User Persona's (Their name, their age, their role, their goal with prototype, Accessibility, and quotes)
+ - Journey (Action, Touchpoint, Thoughts, Pain Points, Opportunities)
  - [ ] Front end requirements
  - [ ] Back end requirements
 
@@ -114,12 +130,14 @@ Suggestions to potentially add:
  - [ ] ERD Completed
  - [ ] Use Case Diagram
  - [ ] Data Dictionary
+ - Table name, Field name, Field definition, Data type & Length, Format/Validation Rules, PK, FK, Sample Data
  - [ ] Data Flow Diagram
 ### Algorithms
 - [ ] Flow charting
 
  ### Test Strategy
-
+- Talk about components like each page (Login, account register, Navbar, account settings, etc) and then give it a suitable testing method and justify it
+- Then talk about backend functionalities, like a feedback system or a database, then test it.
  - [ ] Functionality testing
  - [ ] Usability testing
  - [ ] Interface testing
