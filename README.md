@@ -151,7 +151,28 @@ Suggestions to potentially add:
  - [ ] Alpha Testing
  - [ ] Beta Testing
  - [ ] Black Box/White Box Testing
-
+## Task 2
+### Set up connection
+ - [ ]Create a connection string (database location, security, timeout)
+ - [ ]Create a SqlConnection using the connection string
+ ### Prepare command
+ - [ ]Create a SqlCommand
+ - [ ]Set the stored procedure name
+ - [ ]Attach it to the connection
+ ### Configure command type
+ - [ ]SetCommandType to StoredProcedure
+### Get input data
+- [ ]Read values from form inputs (e.g. name, age)
+ - [ ]Convert data types if needed (e.g. string → int)
+### Add parameters
+ - [ ]Add parameters that match the stored procedure
+ - [ ]Ensure names match exactly (e.g. @Name, @Age)
+### Open connection
+ - [ ] Open the database connection
+### Execute command
+ - [ ]Use ExecuteNonQuery() for INSERT/UPDATE procedures
+### Close connection
+ - [ ] Close the connection (or use using to do this automatically)
  
 ## Task 3a
 - [ ] Aim of the feedback process
