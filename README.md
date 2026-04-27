@@ -259,6 +259,24 @@ Suggestions to potentially add:
 - Highest scoring areas + positive behaviours
 - Technical vs non-technical comparison
 
+Type of Questions to be used on each form:
+- Strongest & Weakest Part
+- Reccommend?
+- One feature, one non-feature
+- Could this prototype compete with other competitors on the market?
+- Potential security vulnerabilities
+- Which part to optimise first
+- How helpful are comments?
+- Error handling and logging systems
+- Naming conventions & structure
+- Could this be added upon easily?
+- Should any third-party systems/software/existing products have been used?
+- Would you have changed anything about this code snippet?
+- Is anything about this design confusing or distracting to you?
+- Would this solve a real problem for you? Why or why not?
+- How would you describe this product to a friend or teammate?
+- What is one thing that felt missing or unnecessary? 
+
 ## Task 3b 
 - [ ] Asset and content
 - [ ] Requirement Evaluation
