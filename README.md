@@ -275,7 +275,10 @@ Type of Questions to be used on each form:
 - Is anything about this design confusing or distracting to you?
 - Would this solve a real problem for you? Why or why not?
 - How would you describe this product to a friend or teammate?
-- What is one thing that felt missing or unnecessary? 
+- What is one thing that felt missing or unnecessary?
+- Expectation vs Reality
+- Daily use
+- 
 
 ## Task 3b 
 - [ ] Asset and content
