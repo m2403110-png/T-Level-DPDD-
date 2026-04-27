@@ -175,19 +175,89 @@ Suggestions to potentially add:
  - [ ] Close the connection (or use using to do this automatically)
  
 ## Task 3a
-- [ ] Aim of the feedback process
-- [ ] Technical users
-- [ ] Non-Technical users
-- [ ] Interview Questions
-- [ ] Observation Testing
-- [ ] How testing will be carried out
-- [ ] Data recording
-- [ ] Data Analysis method (Quantitative, Qualitative, Triangulation, Prioritisation)
-- [ ] Action Plan
-- [ ] Survey Questions + Interview Questions
-- [ ] Gathering feedback
-- Feedback from different categories (age group, experience, etc)
-- Explain why these groups in particular
+1. Aims & Purpose
+
+- Why collect feedback (pain points, issues, improvements)
+- What we want to find out + who from (and why)
+- Link to improving prototype (usability, performance, accessibility, navigation)
+- Specify focus (UI, code, or both)
+- Expected improvements from feedback
+
+2. Target Users
+
+- Technical users (roles, number, experience, reliability)
+- Non-technical users (justification, insights)
+- Age ranges
+- Reducing bias
+
+3. Feedback Methods
+
+- Surveys (quantitative + qualitative)
+- Observation (task-based)
+- Justify each method + link to aims
+- Behaviours measured (hesitation, misclicks, errors)
+- Materials used (snippets, videos, images)
+- Ethical considerations (consent, anonymity, data protection)
+
+4. Practical Session Plan
+
+- Location + test environment
+- Tasks users complete
+- Time per task + exploration time
+- How prototype is presented
+
+5. Data Recording
+
+- Survey storage (forms → spreadsheets, security)
+- Observation logging (checklists, timings, notes)
+- Secure data storage
+- Triangulation plan (survey + observation + interview)
+
+6. Survey Design
+
+- Platform (Microsoft/Google/SurveyMonkey)
+- 5 rating questions + 3–5 open questions
+- Focus: usability, navigation, clarity, accessibility, performance
+- Clear, non-repetitive questions
+
+7. Observation & Interview
+
+- Watch users complete tasks
+- Tools (e.g. Hotjar)
+- Track behaviour (hesitation, confusion, errors, workarounds)
+- Ask expectations + follow-ups
+- Record: actions, comments, reflections
+
+8. Data Analysis
+
+- Calculate averages + compare scores
+- Identify low scores + trends
+- Group qualitative data into themes
+- Compare technical vs non-technical users
+- Triangulate (score + theme + evidence)
+- Prioritise improvements
+
+9. Themes & Organisation
+
+- Key areas: navigation, layout, accessibility, performance, design, responsiveness, content clarity
+- Identify patterns, strengths, weaknesses
+- Count frequency + select key examples
+
+10. Writing Analysis
+
+- Quantitative evidence (scores)
+- Qualitative insights (comments/themes)
+- Observations (user behaviour)
+- Interpretation (what it means + why)
+
+11. Final Summary
+
+- What worked / didn’t work
+- Key differences between users
+- Overall findings
+- Priority improvements
+- Highest scoring areas + positive behaviours
+- Technical vs non-technical comparison
 
 ## Task 3b 
 - [ ] Asset and content
