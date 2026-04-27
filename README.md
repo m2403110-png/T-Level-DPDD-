@@ -278,7 +278,7 @@ Type of Questions to be used on each form:
 - What is one thing that felt missing or unnecessary?
 - Expectation vs Reality
 - Daily use
-- 
+- Rate Logo & Navigation Bar
 
 ## Task 3b 
 - [ ] Asset and content
