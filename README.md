@@ -279,7 +279,35 @@ Type of Questions to be used on each form:
 - Expectation vs Reality
 - Daily use
 - Rate Logo & Navigation Bar
-
+### Task 3b
+## Assets & Content
+Explain why each key asset was selected
+Explain why alternative options were not chosen
+Describe how sources were checked for validity and reliability
+Discuss any legal considerations, including copyright and licences
+Include ethical considerations such as accessibility and inclusivity
+## Requirements Evaluation
+Evaluate how well the functional requirements were achieved
+Evaluate how well the non-functional requirements were achieved
+Assess performance against the KPIs
+Evaluate the user acceptance criteria using supporting evidence
+Use data from Task 3a to support evaluation points
+## Use of Evidence (Task 3a)
+Correctly reference survey results and scores
+Refer to themes identified from interviews
+Include at least one direct user quote
+Use evidence from observational notes
+Demonstrate triangulation using scores, themes, and quotes together
+## Improvements
+Identify realistic improvements for the product
+Support each improvement with evidence from Task 3a
+Explain why each improvement is important
+Describe how the improvements would benefit users
+Writing Quality
+Use a clear structure: introduction, evaluation, improvements, and conclusion
+Maintain professional and formal wording
+Write in full sentences and paragraphs
+Avoid responses that rely only on bullet points
 ## Task 3b 
 - [ ] Asset and content
 - [ ] Requirement Evaluation
